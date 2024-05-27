@@ -1,0 +1,339 @@
+{
+    "productos": [
+        {
+            "ID": 1,
+            "nombre": "Camiseta Deportiva Hombre",
+            "precio": 20,
+            "stock": 50,
+            "categoria": "Hombre",
+            "descripcion": "Camiseta transpirable de alta calidad para entrenamientos.",
+            "marca": "SportPro",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "camiseta_hombre.jpeg"
+        },
+        {
+            "ID": 2,
+            "nombre": "Pantalones Cortos Mujer",
+            "precio": 25,
+            "stock": 40,
+            "categoria": "Mujer",
+            "descripcion": "Pantalones cortos cómodos y ligeros para actividades deportivas.",
+            "marca": "AthleticWear",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "pantalones_cortos_mujer.webp"
+        },
+        {
+            "ID": 3,
+            "nombre": "Zapatillas Running",
+            "precio": 60,
+            "stock": 30,
+            "categoria": "Zapatillas",
+            "descripcion": "Zapatillas de running con amortiguación avanzada.",
+            "marca": "RunFast",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "zapatillas_running.jpeg"
+        },
+        {
+            "ID": 4,
+            "nombre": "Sudadera Deportiva Unisex",
+            "precio": 35,
+            "stock": 20,
+            "categoria": "Hombre",
+            "descripcion": "Sudadera con capucha para uso diario y entrenamiento.",
+            "marca": "ActiveLife",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "sudadera_unisex.webp"
+        },
+        {
+            "ID": 5,
+            "nombre": "Calcetines de Deporte",
+            "precio": 10,
+            "stock": 100,
+            "categoria": "Accesorios",
+            "descripcion": "Calcetines acolchados para mayor comodidad durante el ejercicio.",
+            "marca": "FeetComfort",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "calcetines_deporte.jpeg"
+        },
+        {
+            "ID": 6,
+            "nombre": "Pantalones Largos Hombre",
+            "precio": 40,
+            "stock": 35,
+            "categoria": "Hombre",
+            "descripcion": "Pantalones largos para entrenamiento y actividades al aire libre.",
+            "marca": "SportPro",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "pantalones_largos_hombre.jpeg"
+        },
+        {
+            "ID": 7,
+            "nombre": "Chaqueta Deportiva Mujer",
+            "precio": 50,
+            "stock": 25,
+            "categoria": "Mujer",
+            "descripcion": "Chaqueta ligera e impermeable para actividades deportivas.",
+            "marca": "AthleticWear",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "chaqueta_deportiva_mujer.webp"
+        },
+        {
+            "ID": 8,
+            "nombre": "Gorra Deportiva",
+            "precio": 15,
+            "stock": 75,
+            "categoria": "Accesorios",
+            "descripcion": "Gorra ajustable para protección solar durante el deporte.",
+            "marca": "SunGuard",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "gorra_deportiva.webp"
+        },
+        {
+            "ID": 9,
+            "nombre": "Guantes de Entrenamiento",
+            "precio": 18,
+            "stock": 60,
+            "categoria": "Accesorios",
+            "descripcion": "Guantes con agarre antideslizante para entrenamiento con pesas.",
+            "marca": "GripPower",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "guantes_entrenamiento.webp"
+        },
+        {
+            "ID": 10,
+            "nombre": "Zapatillas de Tenis",
+            "precio": 70,
+            "stock": 20,
+            "categoria": "Zapatillas",
+            "descripcion": "Zapatillas diseñadas para mayor estabilidad y confort en la cancha.",
+            "marca": "CourtMaster",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "zapatillas_tenis.avif"
+        },
+        {
+            "ID": 11,
+            "nombre": "Camiseta Running Mujer",
+            "precio": 22,
+            "stock": 50,
+            "categoria": "Mujer",
+            "descripcion": "Camiseta ligera y transpirable para correr.",
+            "marca": "RunFlex",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "camiseta_running_mujer.jpeg"
+        },
+        {
+            "ID": 12,
+            "nombre": "Shorts de Entrenamiento Hombre",
+            "precio": 28,
+            "stock": 45,
+            "categoria": "Hombre",
+            "descripcion": "Shorts de entrenamiento con bolsillos y cintura ajustable.",
+            "marca": "GymGear",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "shorts_entrenamiento_hombre.jpeg"
+        },
+        {
+            "ID": 13,
+            "nombre": "Botella de Agua",
+            "precio": 12,
+            "stock": 100,
+            "categoria": "Accesorios",
+            "descripcion": "Botella de agua reutilizable y libre de BPA. Piensa en el planeta, recicla",
+            "marca": "HydroSport",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "botella_agua.jpeg"
+        },
+        {
+            "ID": 14,
+            "nombre": "Cinturón de Hidratación",
+            "precio": 28,
+            "stock": 30,
+            "categoria": "Accesorios",
+            "descripcion": "Cinturón ajustable con espacio para botellas de agua.",
+            "marca": "RunHydrate",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "cinturon_hidratacion.jpeg"
+        },
+        {
+            "ID": 15,
+            "nombre": "Top Deportivo Mujer",
+            "precio": 22,
+            "stock": 40,
+            "categoria": "Mujer",
+            "descripcion": "Top deportivo con soporte adicional para entrenamientos intensos.",
+            "marca": "ActiveWear",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "top_deportivo_mujer.jpeg"
+        },
+        {
+            "ID": 16,
+            "nombre": "Camiseta Sin Mangas Hombre",
+            "precio": 18,
+            "stock": 50,
+            "categoria": "Hombre",
+            "descripcion": "Camiseta sin mangas para mayor comodidad en el gimnasio.",
+            "marca": "GymFlex",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "camiseta_sin_mangas_hombre.webp"
+        },
+        {
+            "ID": 17,
+            "nombre": "Leggings Hombre",
+            "precio": 32,
+            "stock": 25,
+            "categoria": "Hombre",
+            "descripcion": "Leggings ajustados para correr y entrenar.",
+            "marca": "FlexRun",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "leggings_hombre.jpeg"
+        },
+        {
+            "ID": 18,
+            "nombre": "Camiseta Manga Larga Mujer",
+            "precio": 26,
+            "stock": 30,
+            "categoria": "Mujer",
+            "descripcion": "Camiseta de manga larga ideal para correr en climas frescos.",
+            "marca": "CoolRun",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "camiseta_manga_larga_mujer.jpeg"
+        },
+        {
+            "ID": 19,
+            "nombre": "Pantalones de Chándal",
+            "precio": 38,
+            "stock": 20,
+            "categoria": "Hombre",
+            "descripcion": "Pantalones de chándal cómodos para uso diario y deportivo.",
+            "marca": "SportComfort",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "pantalones_chandal.avif"
+        },
+        {
+            "ID": 20,
+            "nombre": "Faja Deportiva",
+            "precio": 25,
+            "stock": 30,
+            "categoria": "Accesorios",
+            "descripcion": "Faja ajustable para soporte lumbar durante el ejercicio.",
+            "marca": "SupportFit",
+            "disponibilidad": [
+                "delivery",
+                "pickup"
+            ],
+            "imagen": "faja_deportiva.jpeg"
+        },
+        {
+          "ID": 21,
+          "nombre": "Zapatillas Nike Air Max 270",
+          "precio": 150,
+          "stock": 20,
+          "categoria": "Zapatillas",
+          "descripcion": "Zapatillas deportivas Nike Air Max 270 con tecnología de amortiguación Air para una comodidad superior.",
+          "marca": "Nike",
+          "disponibilidad": ["Delivery", "Pickup"],
+          "imagen": "imagen_zapatillas_nike_air_max_270.webp"
+        },
+        {
+          "ID": 22,
+          "nombre": "Zapatillas Adidas Ultraboost 21",
+          "precio": 180,
+          "stock": 15,
+          "categoria": "Zapatillas",
+          "descripcion": "Zapatillas de running Adidas Ultraboost 21 con tecnología Boost para un retorno de energía óptimo en cada paso.",
+          "marca": "Adidas",
+          "disponibilidad": ["Delivery", "Pickup"],
+          "imagen": "imagen_zapatillas_adidas_ultraboost_21.avif"
+        },
+        {
+          "ID": 23,
+          "nombre": "Zapatillas New Balance Fresh Foam 1080v11",
+          "precio": 160,
+          "stock": 18,
+          "categoria": "Zapatillas",
+          "descripcion": "Zapatillas de running New Balance Fresh Foam 1080v11 diseñadas para ofrecer una sensación de comodidad y sujeción durante la carrera.",
+          "marca": "New Balance",
+          "disponibilidad": ["Delivery", "Pickup"],
+          "imagen": "imagen_zapatillas_new_balance_fresh_foam_1080v11.jpeg"
+        },
+        {
+          "ID": 24,
+          "nombre": "Zapatillas Puma RS-X",
+          "precio": 120,
+          "stock": 25,
+          "categoria": "Zapatillas",
+          "descripcion": "Zapatillas estilo retro Puma RS-X con una mezcla de colores llamativos y suela gruesa para mayor amortiguación.",
+          "marca": "Puma",
+          "disponibilidad": ["Delivery", "Pickup"],
+          "imagen": "imagen_zapatillas_puma_rs-x.jpeg"
+        },
+        {
+          "ID": 25,
+          "nombre": "Zapatillas Reebok Nano X",
+          "precio": 130,
+          "stock": 22,
+          "categoria": "Zapatillas",
+          "descripcion": "Zapatillas de entrenamiento Reebok Nano X diseñadas para proporcionar estabilidad y tracción en diversos tipos de entrenamiento.",
+          "marca": "Reebok",
+          "disponibilidad": ["Delivery", "Pickup"],
+          "imagen": "imagen_zapatillas_reebok_nano_x.jpeg"
+        }
+    ]
+}
